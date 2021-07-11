@@ -1,0 +1,5 @@
+/home/nanh/c/Phonebookbu/Phonebook/cmake-sqlite/b/CMakeFiles/rebuild_cache.dir
+/home/nanh/c/Phonebookbu/Phonebook/cmake-sqlite/b/CMakeFiles/edit_cache.dir
+/home/nanh/c/Phonebookbu/Phonebook/cmake-sqlite/b/CMakeFiles/contact.dir
+/home/nanh/c/Phonebookbu/Phonebook/cmake-sqlite/b/CMakeFiles/insert.dir
+/home/nanh/c/Phonebookbu/Phonebook/cmake-sqlite/b/CMakeFiles/sqlite3.dir
